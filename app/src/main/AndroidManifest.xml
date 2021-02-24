@@ -10,7 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProjetoBootcampingEverisKotlinDevelopsDIO">
         <activity android:name=".telas.RetrofitMain"></activity>
-        <activity android:name=".telas.ContentProviderClienteMain" />
 
         <service
             android:name=".service.MyFirebaseMessagingService"
@@ -33,7 +32,9 @@
             android:name=".databases.NoteProvider"
             android:authorities="chellotech.br.projeto_bootcamping_everiskotlindevelops_dio.provider"
             android:enabled="true"
-            android:exported="true" />
+            android:exported="true" >
+
+        </provider>
 
         <activity android:name=".telas.NotificationsMain" />
         <activity android:name=".telas.ContentProviderServidorMain" />
