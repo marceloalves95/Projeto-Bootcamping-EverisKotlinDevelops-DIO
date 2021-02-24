@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".telas.MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".telas.MainActivity"
+            >
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="30dp"
+                android:text="@string/texto_inicial"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/calculadora_notas"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/calculadora_notas"
+                app:layout_constraintEnd_toEndOf="@+id/textView"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="@+id/textView"
+                app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+            <Button
+                android:id="@+id/calculadora_imc"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/calculadora_imc"
+                app:layout_constraintEnd_toEndOf="@+id/calculadora_notas"
+                app:layout_constraintStart_toStartOf="@+id/calculadora_notas"
+                app:layout_constraintTop_toBottomOf="@+id/calculadora_notas" />
+
+            <Button
+                android:id="@+id/view_model_lifecycle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/view_model_lifecycle"
+                app:layout_constraintEnd_toEndOf="@+id/calculadora_imc"
+                app:layout_constraintStart_toStartOf="@+id/calculadora_imc"
+                app:layout_constraintTop_toBottomOf="@+id/calculadora_imc" />
+
+            <Button
+                android:id="@+id/content_provider"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/content_provider"
+                app:layout_constraintEnd_toEndOf="@+id/view_model_lifecycle"
+                app:layout_constraintStart_toStartOf="@+id/view_model_lifecycle"
+                app:layout_constraintTop_toBottomOf="@+id/view_model_lifecycle" />
+
+            <Button
+                android:id="@+id/notifications"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/notifications"
+                app:layout_constraintEnd_toEndOf="@+id/content_provider"
+                app:layout_constraintStart_toStartOf="@+id/content_provider"
+                app:layout_constraintTop_toBottomOf="@+id/content_provider" />
+
+    <Button
+        android:id="@+id/retrofit"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/retrofit"
+        app:layout_constraintEnd_toEndOf="@+id/notifications"
+        app:layout_constraintStart_toStartOf="@+id/notifications"
+        app:layout_constraintTop_toBottomOf="@+id/notifications" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</RelativeLayout>

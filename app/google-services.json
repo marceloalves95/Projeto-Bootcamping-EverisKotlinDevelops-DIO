@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817115186209",
+    "project_id": "everis-kotlin-develops-dio",
+    "storage_bucket": "everis-kotlin-develops-dio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817115186209:android:ed894257502092eaac0f60",
+        "android_client_info": {
+          "package_name": "chellotech.br.projeto_bootcamping_everiskotlindevelops_dio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817115186209-2tgfo0dhmqdidq020pfvu7boj6nb85ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWsu_56Gc_yGNBQfCMk81enreweBkA3d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817115186209-2tgfo0dhmqdidq020pfvu7boj6nb85ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

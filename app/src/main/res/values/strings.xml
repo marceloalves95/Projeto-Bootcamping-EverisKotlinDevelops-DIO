@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bootcamping Everis Kotlin Develops</string>
+    <string name="texto_inicial">Projetos criados na Bootcamping Everis Kotlin Develops</string>
+    <string name="content_provider">Content Provider - Servidor</string>
+    <string name="notifications">Notifications com Firebase</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="calculadora_notas">Calculadora de Notas</string>
+    <string name="calculadora_imc">Calculadora de IMC</string>
+    <string name="view_model_lifecycle">View Model e Lifecycle</string>
+    <string name="nota1">Nota 1</string>
+    <string name="nota2">Nota 2</string>
+    <string name="faltas">Faltas</string>
+    <string name="calcular">Calcular</string>
+    <string name="aprovado">Aluno Aprovado</string>
+    <string name="limpar">Limpar</string>
+    <string name="altura">Digite a sua altura</string>
+    <string name="peso">Digite o seu peso</string>
+    <string name="contador">Contador</string>
+    <string name="dados">Dados</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="remover">Remover</string>
+    <string name="titulo">Título</string>
+    <string name="descricao">Descrição</string>
+    <string name="enviar_notificacao">Enviar Notificação</string>
+    <string name="content_provider_cliente">Content Provider - Cliente</string>
+    <string name="app_cliente">App Cliente</string>
+</resources>
