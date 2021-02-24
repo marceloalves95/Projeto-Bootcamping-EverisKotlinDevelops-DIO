@@ -63,9 +63,7 @@ Escreva as seguintes linhas no `Android Manifest`:
 
 A figura abaixo mostra as principais telas do aplicativo
 
-|![](/app/src/main/java/chellotech/br/projeto_bootcamping_everiskotlindevelops_dio/screenshots/tela1.png) 
-|![](/app/src/main/java/chellotech/br/projeto_bootcamping_everiskotlindevelops_dio/screenshots/tela2.png) 
-|
+|![](/app/src/main/java/chellotech/br/projeto_bootcamping_everiskotlindevelops_dio/screenshots/tela1.png) |![](/app/src/main/java/chellotech/br/projeto_bootcamping_everiskotlindevelops_dio/screenshots/tela2.png) |
 |:---:|:---:|
 | **TELA INICIAL DO APLICATIVO** | **TELA COM A ÁREA DE CADASTRO DA PESSOA**  |
 |![](/app/src/main/java/chellotech/br/agendatelefonica/screenshots/listar_pessoas.png) |![](/app/src/main/java/chellotech/br/agendatelefonica/screenshots/atualizar_pessoas.png)|
