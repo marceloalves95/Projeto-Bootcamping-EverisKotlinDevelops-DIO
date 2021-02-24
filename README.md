@@ -34,7 +34,7 @@ dependencies {
 
 Escreva as seguintes linhas no `Android Manifest`:
 
-```groovy
+```xml
  <service
        android:name=".service.MyFirebaseMessagingService"
        android:enabled="true"
