@@ -62,5 +62,5 @@ Escreva as seguintes linhas no `Android Manifest`:
 ### Telas do aplicativo 
 
 A figura abaixo mostra as principais telas do aplicativo
-
+[](/app/src/main/res/drawable/tela1.png)
 
