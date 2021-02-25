@@ -68,9 +68,6 @@ A figura abaixo mostra as principais telas do aplicativo
 | **Tela inicial do aplicativo** | **Tela Calculadora de Notas**  |
 |![](/app/src/main/java/chellotech/br/projeto_bootcamping_everiskotlindevelops_dio/screenshots/tela3.png) |![](/app/src/main/java/chellotech/br/projeto_bootcamping_everiskotlindevelops_dio/screenshots/tela4.png))|
 | **TELA COM A LISTA DE PESSOAS APÓS O CADASTRO**  |  **TELA COM A ÁREA DE ATUALIZAÇÃO DA PESSOA** |
-|![](/app/src/main/java/chellotech/br/agendatelefonica/screenshots/permissao2.png) |![](/app/src/main/java/chellotech/br/agendatelefonica/screenshots/intent_pdf.png)  |
-| **TELA DE PERMISSÃO DE ESCRITA DE DADOS ANTES DE GERAR O RELATÓRIO**  |  **TELA DE ESCOLHA DE APLICATIVO COMPATÍVEL COM O FORMATO PDF** |
-|![](/app/src/main/java/chellotech/br/agendatelefonica/screenshots/relatorio_pessoas.png) 
-| **RELATÓRIO GERADO**  
+
 
 
