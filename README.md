@@ -67,7 +67,7 @@ A figura abaixo mostra as principais telas do aplicativo
 |:---:|:---:|
 | **Tela inicial do aplicativo** | **Tela Calculadora de Notas**  |
 |![](/app/src/main/java/chellotech/br/projeto_bootcamping_everiskotlindevelops_dio/screenshots/tela3.png) |![](/app/src/main/java/chellotech/br/projeto_bootcamping_everiskotlindevelops_dio/screenshots/tela4.png) |
-| **TELA COM A LISTA DE PESSOAS APÓS O CADASTRO**  |  **TELA COM A ÁREA DE ATUALIZAÇÃO DA PESSOA** |
+| **Tela de Calculadora de IMC**  |  **Tela de ViewModel e Lifecycle** |
 
 
 
