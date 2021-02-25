@@ -70,6 +70,6 @@ A figura abaixo mostra as principais telas do aplicativo
 | **Tela de Calculadora de IMC**  |  **Tela de ViewModel e Lifecycle** |
 |![](/app/src/main/java/chellotech/br/projeto_bootcamping_everiskotlindevelops_dio/screenshots/tela5.png) |![](/app/src/main/java/chellotech/br/projeto_bootcamping_everiskotlindevelops_dio/screenshots/tela6.png) |
 | **Tela de Content Provider - Servidor**  |  **Tela de Content Provider com a mensagem** |
-
+|![](/app/src/main/java/chellotech/br/projeto_bootcamping_everiskotlindevelops_dio/screenshots/tela7.png) |![](/app/src/main/java/chellotech/br/projeto_bootcamping_everiskotlindevelops_dio/screenshots/tela8.png) |
 
 
