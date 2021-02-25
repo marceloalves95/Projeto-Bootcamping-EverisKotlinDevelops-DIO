@@ -72,4 +72,3 @@ A figura abaixo mostra as principais telas do aplicativo
 | **Tela de Content Provider - Servidor**  |  **Tela de Content Provider com a mensagem** |
 |![](/app/src/main/java/chellotech/br/projeto_bootcamping_everiskotlindevelops_dio/screenshots/tela7.png) |![](/app/src/main/java/chellotech/br/projeto_bootcamping_everiskotlindevelops_dio/screenshots/tela8.png) |
 | **Tela de Notifications com Firebase**  |  **Tela de Notifications com Firebase com a mensagem** |
-
